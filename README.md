@@ -1,6 +1,6 @@
 
 
-# stealer
+# stealer DONT FUCKING USE THIS ITS OUT OF DATE AND DOESNT WORK ANYMORE
 OUT OF DATE DONT USE ---- DOWNLOAD ONLY IF YOU WANT TO FIX/UPDATE IT
 
 A program made in python. Grabs chrome login information, Minecraft mods (under 8mb), basic computer info and user info, discord tokens and sends to the discord webhook you set
